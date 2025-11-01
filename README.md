@@ -6,10 +6,10 @@ This is a simple desktop application for managing blood bank operations, built u
 
 ## 📋 Features
 
-* **Welcome Screen:** A main dashboard to navigate the application.
-* **Donor Registration:** Allows new users to register as blood donors.
-* **Request Blood:** Provides a feature for users to search for and request blood from the donor database.
-* **Edit Records:** Includes functionality to update and manage existing donor or request records.
+* **🏠 Welcome Screen:** A main dashboard to navigate the application.
+* **📝 Donor Registration:** Allows new users to register as blood donors.
+* **🩸 Request Blood:** Provides a feature for users to search for and request blood from the donor database.
+* **✏️ Edit Records:** Includes functionality to update and manage existing donor or request records.
 
 ---
 
